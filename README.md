@@ -1,3 +1,3 @@
 # agentspace
 
-Used for AgentSpace validation. 
+Used for AgentSpace MCP Validation. 
